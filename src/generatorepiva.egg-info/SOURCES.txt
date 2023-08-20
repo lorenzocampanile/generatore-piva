@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+pyproject.toml
+src/generatorepiva/__init__.py
+src/generatorepiva/generatorepiva.py
+src/generatorepiva.egg-info/PKG-INFO
+src/generatorepiva.egg-info/SOURCES.txt
+src/generatorepiva.egg-info/dependency_links.txt
+src/generatorepiva.egg-info/top_level.txt
+src/generatorepiva/blob/Codici-statistici-e-denominazioni-al-17_01_2023.csv
